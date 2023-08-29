@@ -7,5 +7,6 @@ public class HomePage {
     // first java class
 
 
+    // more stuff for home page logo
 
 }
